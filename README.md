@@ -5,7 +5,7 @@ TheOsint-Barking/TheOsint-Barking is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 # 🕵️‍♂️ The Osint Barkin
-
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 ¡Bienvenido a **The Osint Barkin**! 🌐 Un espacio dedicado a recopilar herramientas OSINT, métodos de inteligencia y consejos prácticos para analistas y entusiastas de la investigación.
 
 ---
