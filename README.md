@@ -6,7 +6,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # 🕵️‍♂️ The Osint Barkin
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=OSINT+INTELIGENCIA;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+ <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=INTELIGENCIA"/>
+</p>
 
 ¡Bienvenido a **The Osint Barkin**! 🌐 Un espacio dedicado a recopilar herramientas OSINT, métodos de inteligencia y consejos prácticos para analistas y entusiastas de la investigación.
 
