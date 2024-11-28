@@ -50,11 +50,13 @@ Hola, soy [Tu Nombre o Alias], apasionado por la inteligencia, la investigación
 ---
 
 ## 💬 Sígueme
-- 🌐 Blog: (https://medium.com/@fer11svR)
+- 🌐 Blog: https://medium.com/@fer11svR
 - 🐦 Twitter: [@OsintBarkin](https://twitter.com/osintbarkin)
 - 📧 Email: contacto@osintbarkin.com
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 ---
+
+![image](https://github.com/user-attachments/assets/6083c206-a7c4-404a-908d-054125a8fdc5)
+
 
 ## 🚀 Contribuye
 ¡Se aceptan contribuciones! Si tienes herramientas, métodos o consejos que quieras compartir, envía un pull request.
