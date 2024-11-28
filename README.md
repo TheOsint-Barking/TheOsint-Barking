@@ -36,12 +36,6 @@ Hola, soy [Tu Nombre o Alias], apasionado por la inteligencia, la investigación
 
 ---
 
-## 🎨 Visualización de Contribuciones
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheOsintBarkin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOsintBarkin&layout=compact&theme=radical)
-
----
-
 ## 🧭 Navegación
 1. [Lista de Herramientas](#)
 2. [Tutoriales OSINT](#)
@@ -54,8 +48,6 @@ Hola, soy [Tu Nombre o Alias], apasionado por la inteligencia, la investigación
 - 🐦 Twitter: [@OsintBarkin](https://twitter.com/osintbarkin)
 - 📧 Email: contacto@osintbarkin.com
 ---
-
-![image](https://github.com/user-attachments/assets/6083c206-a7c4-404a-908d-054125a8fdc5)
 
 
 ## 🚀 Contribuye
