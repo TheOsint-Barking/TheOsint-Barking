@@ -50,7 +50,7 @@ Hola, soy [Tu Nombre o Alias], apasionado por la inteligencia, la investigación
 ---
 
 ## 💬 Sígueme
-- 🌐 Blog: [The Osint Barkin en Medium](https://medium.com/the-osint-barkin)
+- 🌐 Blog: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white (https://medium.com/@fer11svR)
 - 🐦 Twitter: [@OsintBarkin](https://twitter.com/osintbarkin)
 - 📧 Email: contacto@osintbarkin.com
 
