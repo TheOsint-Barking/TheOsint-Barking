@@ -45,6 +45,7 @@ Hola, soy [Tu Nombre o Alias], apasionado por la inteligencia, la investigación
 
 ## 💬 Sígueme
 - 🌐 Blog: https://medium.com/@fer11svR
+- <a href = 'https://medium.com/@fer11svR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> medium.com/@fer11svR
 - 🐦 Twitter: [@OsintBarkin](https://twitter.com/osintbarkin)
 - 📧 Email: contacto@osintbarkin.com
 ---
