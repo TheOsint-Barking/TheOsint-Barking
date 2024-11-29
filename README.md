@@ -23,35 +23,35 @@ Hola, soy fer, apasionado por la inteligencia, la investigación y las tecnolog�
 ---
 
 ### 🔍 MANUAL
-- [Tool 1] :notebook_with_decorative_cover: (https://the-osint-barking.gitbook.io/theosint-barking): Una guia de como utilizar diferentes las herramientas.
+- :notebook_with_decorative_cover: [Herramientas 1] (https://the-osint-barking.gitbook.io/theosint-barking): *Una guia de como utilizar diferentes las herramientas*
 
-- [Más herramientas] :mortar_board: (https://github.com/TheOsint-Barking?tab=stars).
+- :mortar_board: [Más herramientas] (https://github.com/TheOsint-Barking?tab=stars). *Mis favoritas*
 
 ---
 
 ### 📚 Métodos de Investigación
-   :earth_americas: **ETAPA 1** 
+:earth_americas: **ETAPA 1** 
 -Búsqueda avanzada recursiva de Google dorks y extracción de datos
-Opcional: Bing, Yandex, Yahoo, DuckDuckGo.
+*Opcional: Bing, Yandex, Yahoo, DuckDuckGo*
 
    :octocat: **ETAPA 2** 
 -Herramientas especializadas de OSINT
-Herramientas especializadas centradas en descubrir más perfiles basados en la información personal recopilada en la Etapa 1.
-Herramientas: Sherlock, Maigret, Ghunt, Holehe, Spiderfoot, Whoxy.
+*Herramientas especializadas centradas en descubrir más perfiles basados en la información personal recopilada en la Etapa 1*
+Herramientas: Sherlock, Maigret, Ghunt, Holehe, Spiderfoot, Whoxy*
 
    :eyes: **ETAPA 3** 
 -Redes sociales, foros, salas de chat. 
-Basado en las cuentas o perfiles recopilados previamente.
-Es posible un perfilado más profundo del objetivo estudiando sus actividades sociales.
+*Basado en las cuentas o perfiles recopilados previamente*
+Es posible un perfilado más profundo del objetivo estudiando sus actividades sociales
 
    :email: **ETAPA 4** 
 -Violaciones de datos
-Las violaciones de datos y las filtraciones pueden revelar más servicios en línea utilizados por el objetivo.
-Herramientas incluyen: HIBP (Have I Been Pwned), Dehashed, Snusbase, LeakCheck.
+*Las violaciones de datos y las filtraciones pueden revelar más servicios en línea utilizados por el objetivo*
+Herramientas incluyen: HIBP (Have I Been Pwned), Dehashed, Snusbase, LeakCheck
 
    :pill: **ETAPA 5**
 -Dark Web 
-Puede ser útil si el objetivo potencialmente utiliza servicios de la Dark Web para propósitos ilegales o poco éticos.
+*Puede ser útil si el objetivo potencialmente utiliza servicios de la Dark Web para propósitos ilegales o poco éticos*
 Requiere acceso a Tor, así como el uso de extractores de la Dark Web.
 
    :black_nib: **ETAPA 6** 
