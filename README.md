@@ -4,7 +4,7 @@
 TheOsint-Barking/TheOsint-Barking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 🕵️‍♂️ The Osint Barkin
+# The Osint Barkin :paw_prints: 
 
  <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=INTELIGENCIA"/>
@@ -22,53 +22,55 @@ Hola, soy fer, apasionado por la inteligencia, la investigación y las tecnolog�
 
 ---
 
-## 🗂️ Contenidos Destacados
-
 ### 🔍 MANUAL
 - [Tool 1] :notebook_with_decorative_cover: (https://the-osint-barking.gitbook.io/theosint-barking): Una guia de como utilizar diferentes las herramientas.
 
 - [Más herramientas] :mortar_board: (https://github.com/TheOsint-Barking?tab=stars).
 
+---
+
 ### 📚 Métodos de Investigación
-**ETAPA 1** :earth_americas:
+   :earth_americas: **ETAPA 1** 
 -Búsqueda avanzada recursiva de Google dorks y extracción de datos
 Opcional: Bing, Yandex, Yahoo, DuckDuckGo.
 
-**ETAPA 2** :octocat:
+   :octocat: **ETAPA 2** 
 -Herramientas especializadas de OSINT
 Herramientas especializadas centradas en descubrir más perfiles basados en la información personal recopilada en la Etapa 1.
 Herramientas: Sherlock, Maigret, Ghunt, Holehe, Spiderfoot, Whoxy.
 
-**ETAPA 3** :eyes:
+   :eyes: **ETAPA 3** 
 -Redes sociales, foros, salas de chat. 
 Basado en las cuentas o perfiles recopilados previamente.
 Es posible un perfilado más profundo del objetivo estudiando sus actividades sociales.
 
-**ETAPA 4** :email:
+   :email: **ETAPA 4** 
 -Violaciones de datos
 Las violaciones de datos y las filtraciones pueden revelar más servicios en línea utilizados por el objetivo.
 Herramientas incluyen: HIBP (Have I Been Pwned), Dehashed, Snusbase, LeakCheck.
 
 **ETAPA 5**
--Dark Web :pill:
+   :pill: -Dark Web 
 Puede ser útil si el objetivo potencialmente utiliza servicios de la Dark Web para propósitos ilegales o poco éticos.
 Requiere acceso a Tor, así como el uso de extractores de la Dark Web.
 
-**ETAPA 6** :black_nib:
+   :black_nib: **ETAPA 6** 
 -Reporte de Inteligencia
 
 ---
 ## Tipos de inteligencia
 
-- **Inteligencia de redes sociales [SOCMINT]** :iphone:
-- **Mapeo e inteligencia geoespacial [GEOINT]** :telescope:
-- **Inteligencia de imágenes [IMINT]** :camera:
-- **Inteligencia de vehículos y transporte [VATINT]** :car:
+- :iphone: **Inteligencia de redes sociales [SOCMINT]** :
+- :telescope: **Mapeo e inteligencia geoespacial [GEOINT]** 
+- :camera: **Inteligencia de imágenes [IMINT]** 
+- :car: **Inteligencia de vehículos y transporte [VATINT]** 
 ---
-
 ## 💬 Sígueme
 - <a href = 'https://medium.com/@fer11svR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-- <a href="https://www.linkedin.com/in/fernando11ortega/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+
+- <a href = 'https://www.linkedin.com/in/fernando11ortega/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+
+- <a href = 'https://x.com/fer_svr1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 ---
 
 
