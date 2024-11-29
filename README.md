@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌟 Sobre mí
-Hola, soy Fernando Ortega, apasionado por la inteligencia, la investigación y las tecnologías OSINT. En este repositorio encontrarás:
+Hola, soy fer, apasionado por la inteligencia, la investigación y las tecnologías OSINT. En este repositorio encontrarás:
 - 🛠️ Herramientas OSINT categorizadas y actualizadas.
 - 📖 Métodos prácticos para análisis e investigación.
 - 💡 Consejos y tutoriales detallados para principiantes y expertos.
@@ -25,52 +25,50 @@ Hola, soy Fernando Ortega, apasionado por la inteligencia, la investigación y l
 ## 🗂️ Contenidos Destacados
 
 ### 🔍 MANUAL
-- [Tool 1](https://the-osint-barking.gitbook.io/theosint-barking): Guia de como utilizar diferentes herramientas.
+- [Tool 1] :notebook_with_decorative_cover: (https://the-osint-barking.gitbook.io/theosint-barking): Una guia de como utilizar diferentes las herramientas.
 
-- [Más herramientas](https://github.com/TheOsint-Barking?tab=stars).
+- [Más herramientas] :mortar_board: (https://github.com/TheOsint-Barking?tab=stars).
 
 ### 📚 Métodos de Investigación
-**ETAPA 1**
+**ETAPA 1** :earth_americas:
 -Búsqueda avanzada recursiva de Google dorks y extracción de datos
 Opcional: Bing, Yandex, Yahoo, DuckDuckGo.
 
-**ETAPA 2**
+**ETAPA 2** :octocat:
 -Herramientas especializadas de OSINT
 Herramientas especializadas centradas en descubrir más perfiles basados en la información personal recopilada en la Etapa 1.
 Herramientas: Sherlock, Maigret, Ghunt, Holehe, Spiderfoot, Whoxy.
 
-**ETAPA 3**
+**ETAPA 3** :eyes:
 -Redes sociales, foros, salas de chat. 
 Basado en las cuentas o perfiles recopilados previamente.
 Es posible un perfilado más profundo del objetivo estudiando sus actividades sociales.
 
-**ETAPA 4**
+**ETAPA 4** :email:
 -Violaciones de datos
 Las violaciones de datos y las filtraciones pueden revelar más servicios en línea utilizados por el objetivo.
 Herramientas incluyen: HIBP (Have I Been Pwned), Dehashed, Snusbase, LeakCheck.
 
 **ETAPA 5**
--Dark Web
+-Dark Web :pill:
 Puede ser útil si el objetivo potencialmente utiliza servicios de la Dark Web para propósitos ilegales o poco éticos.
 Requiere acceso a Tor, así como el uso de extractores de la Dark Web.
 
-**ETAPA 6**
+**ETAPA 6** :black_nib:
 -Reporte de Inteligencia
 
 ---
 ## Tipos de inteligencia
 
-- **Inteligencia de redes sociales [SOCMINT]**
-- **Mapeo e inteligencia geoespacial [GEOINT]**
-- **Inteligencia de imágenes [IMINT]**
-- **Inteligencia de vehículos y transporte [VATINT]** 
+- **Inteligencia de redes sociales [SOCMINT]** :iphone:
+- **Mapeo e inteligencia geoespacial [GEOINT]** :telescope:
+- **Inteligencia de imágenes [IMINT]** :camera:
+- **Inteligencia de vehículos y transporte [VATINT]** :car:
 ---
 
 ## 💬 Sígueme
-- 🌐 Blog: https://medium.com/@fer11svR
-- <a href = 'https://medium.com/@fer11svR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> medium.com/@fer11svR
-- 🐦 X: [@OsintBarkin](https://twitter.com/osintbarkin)
-
+- <a href = 'https://medium.com/@fer11svR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
+- <a href="https://www.linkedin.com/in/fernando11ortega/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 ---
 
 
