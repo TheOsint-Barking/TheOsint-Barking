@@ -49,8 +49,8 @@ Es posible un perfilado más profundo del objetivo estudiando sus actividades so
 Las violaciones de datos y las filtraciones pueden revelar más servicios en línea utilizados por el objetivo.
 Herramientas incluyen: HIBP (Have I Been Pwned), Dehashed, Snusbase, LeakCheck.
 
-**ETAPA 5**
-   :pill: -Dark Web 
+   :pill: **ETAPA 5**
+-Dark Web 
 Puede ser útil si el objetivo potencialmente utiliza servicios de la Dark Web para propósitos ilegales o poco éticos.
 Requiere acceso a Tor, así como el uso de extractores de la Dark Web.
 
