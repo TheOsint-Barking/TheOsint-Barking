@@ -66,6 +66,7 @@ Requiere acceso a Tor, así como el uso de extractores de la Dark Web.
 - :telescope: **Mapeo e inteligencia geoespacial [GEOINT]** 
 - :camera: **Inteligencia de imágenes [IMINT]** 
 - :car: **Inteligencia de vehículos y transporte [VATINT]** 
+- 🚶**Inteligencia de Fuentes Humanas [HUMINT]** no recomendado a solo qué seas Carrie Mathison.
 ---
 ## 💬 Sígueme
 - <a href = 'https://medium.com/@fer11svR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
