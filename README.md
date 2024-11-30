@@ -15,10 +15,12 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌟 Sobre mí
-Hola, soy fer, apasionado por la inteligencia, la investigación y las tecnologías OSINT. En este repositorio encontrarás:
+Hola, soy fer, apasionado por la inteligencia, la investigación, las tecnologías OSINT y los memes de perritos. En este repositorio encontrarás:
 - 🛠️ Herramientas OSINT categorizadas y actualizadas.
 - 📖 Métodos prácticos para análisis e investigación.
 - 💡 Consejos y tutoriales detallados para principiantes y expertos.
+- 🕵️ Tips y manuales de inteligencia.
+- 🐶 Imágenes de perritos en situaciones random.
 
 ---
 
