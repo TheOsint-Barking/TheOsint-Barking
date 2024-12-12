@@ -69,8 +69,6 @@ Requiere acceso a Tor, así como el uso de extractores de la Dark Web.
 - 🚶**Inteligencia de Fuentes Humanas [HUMINT]** *No recomendado a solo qué seas Carrie Mathison.*
 ---
 ## 💬 Sígueme
-- <a href = 'https://medium.com/@fer11svR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
-
 - <a href = 'https://www.linkedin.com/in/fernando11ortega/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
 - <a href = 'https://x.com/fer_svr1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
