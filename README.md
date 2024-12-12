@@ -29,6 +29,9 @@ Hola, soy fer, apasionado por la inteligencia, la investigación, las tecnologí
 
 - :mortar_board: [Más herramientas] (https://github.com/TheOsint-Barking?tab=stars). *Mis favoritas*
 
+- :notebook_with_decorative_cover: Manual de inteligencia y privacidad (https://github.com/TheOsint-Barking/Mr.-X-Intell) proximamente!!! 
+
+
 ---
 
 ### 📚 Métodos de Investigación
@@ -66,7 +69,9 @@ Requiere acceso a Tor, así como el uso de extractores de la Dark Web.
 - :telescope: **Mapeo e inteligencia geoespacial [GEOINT]** 
 - :camera: **Inteligencia de imágenes [IMINT]** 
 - :car: **Inteligencia de vehículos y transporte [VATINT]** 
-- 🚶**Inteligencia de Fuentes Humanas [HUMINT]** *No recomendado a solo qué seas Carrie Mathison.*
+- 🚶**Inteligencia de Fuentes Humanas [HUMINT]** ----ojito mucho ojito ---- *No recomendado a solo qué seas Carrie Mathison.*
+- ![Homeland](https://github.com/user-attachments/assets/13373a83-5847-4108-9277-1711aaa7db6f)
+
 ---
 ## 💬 Sígueme
 - <a href = 'https://www.linkedin.com/in/fernando11ortega/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
