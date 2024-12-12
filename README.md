@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=INTELIGENCIA"/>
 </p>
 
-¡Bienvenido a **The Osint Barkin**! 🌐 Un espacio dedicado a recopilar herramientas OSINT, métodos de inteligencia y consejos prácticos para analistas y entusiastas de la investigación.
+¡Bienvenido a **The Osint Barkin**! 🌐 Un espacio dedicado a recopilar herramientas OSINT, métodos de inteligencia, metodos de privacidad y consejos prácticos para analistas, entusiastas de la investigación y personas que les mama el chismecito.
 
 ---
 
